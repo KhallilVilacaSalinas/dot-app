@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "309242233144",
+    "project_id": "ponto-prevent",
+    "storage_bucket": "ponto-prevent.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309242233144:android:52420a98d8158691f101cd",
+        "android_client_info": {
+          "package_name": "com.example.ponto_prevent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309242233144-tsnhb1r3kc6na6mv4nncg932gt69j3en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ponto_prevent",
+            "certificate_hash": "ffb6eed72feaaf67f5d4248ef30109de673daa71"
+          }
+        },
+        {
+          "client_id": "309242233144-r6dprp391i87b9go00ctgp53lvtk99lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJFbZjCD_OJch-4wkbEmVs7NR0FZDZ1uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309242233144-r6dprp391i87b9go00ctgp53lvtk99lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
