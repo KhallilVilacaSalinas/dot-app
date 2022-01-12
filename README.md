@@ -1,4 +1,4 @@
-# ponto_prevent
+# Aplicativo de comprovante de ponto
 
 A new Flutter project.
 
